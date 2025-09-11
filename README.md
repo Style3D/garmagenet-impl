@@ -3,15 +3,13 @@
 </h1>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2504.01483" style="text-decoration:none">
+  <a href="https://arxiv.org/abs/2504.01483">
     <img src="https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white" alt="arXiv">
   </a>
-  &nbsp;
-  <a href="https://style3d.github.io/garmagenet" style="text-decoration:none">
+  <a href="https://style3d.github.io/garmagenet">
     <img src="https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white" alt="Homepage">
   </a>
-  &nbsp;
-  <a href="" style="text-decoration:none">
+  <a href="">
     <img src="https://img.shields.io/badge/Demo-HuggingFace-orange?logo=huggingface" alt="Demo">
   </a>
 </p>
