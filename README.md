@@ -1,5 +1,7 @@
 <h2 align="center">
-    GarmageNet: A Multimodal Generative Framework <br/>for Sewing Pattern Design and Generic Garment Modeling
+<img src="assets/images/logo.png" width="35%" align="center"> 
+<br/>
+<small>A Multimodal Generative Framework for Sewing Pattern Design and Generic Garment Modeling</small>
 </h2>
 <p align="center"><a href="https://arxiv.org/abs/2504.01483"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 <a href='https://style3d.github.io/garmagenet'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
