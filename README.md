@@ -13,6 +13,10 @@
 > We introduce **GarmageNet**, a unified generative framework that automates the creation of 2D sewing patterns, the construction of sewing relationships, and the synthesis of 3D garment initializations compatible with physics-based simulation. Central to our approach is **Garmage**, a novel garment representation that encodes each panel as a structured geometry image, effectively bridging the semantic and geometric gap between 2D structural patterns and 3D garment geometries. Followed by **GarmageNet**, a latent diffusion transformer to synthesize panel-wise geometry images and **GarmageJigsaw**, a neural module for predicting point-to-point sewing connections along panel contours. 
 
 
+## Updates
+
+**[November 18, 2025]** First release of [GarmageSet](https://huggingface.co/datasets/Style3D/GarmageSet) dataset 🥳
+
 ## Citation
 
 If you find this work useful, please cite:
@@ -37,3 +41,4 @@ If you find this work useful, please cite:
   year      = {2025}
 }
 ```
+
